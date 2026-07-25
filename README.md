@@ -1,20 +1,28 @@
 # Hi, I'm Patricia 👋
 
-Builder of AI-powered tools and web apps. I like turning fuzzy ideas into things people can actually click.
+**Management Consultant — AI, Product & Financial Services Transformation**
+
+I help banks and global organisations deliver complex change across product, operations, and technology. My work translates tangled business, regulatory, and customer needs into scalable delivery outcomes — spanning business analysis, product delivery, and agile transformation in highly regulated environments.
+
+I'm especially interested in how AI and automation are reshaping workflows, decision-making, and customer experience — and how organisations can adopt these technologies **responsibly and effectively at scale**.
 
 ---
 
-### 🔭 What I'm working on
-- Small, useful AI applications built on the latest Claude models
-- Web projects that mix data, design, and a little bit of magic
+### 🔭 What I focus on
+- Business & technology transformation in financial services
+- Product delivery, business analysis, and agile ways of working
+- Modernising operating models across cross-functional, enterprise programmes
 
-### 🌱 Currently learning
-- Sharpening my skills across the full stack — from prompt to production
+### 🌱 Exploring
+- Practical, responsible adoption of AI and automation at scale
+- Building small AI-powered tools to learn by doing
 
 ### 💬 Ask me about
-- AI apps, product ideas, and building things end-to-end
+- Large-scale change in regulated environments
+- Turning complex business & regulatory needs into delivery outcomes
+- Where AI actually adds value in product and operations
 
-### 📫 How to reach me
+### 📫 Get in touch
 - 💼 LinkedIn: [in/patricia-kusch](https://www.linkedin.com/in/patricia-kusch/)
 - Or open an issue or start a discussion on any of my repos
 
