@@ -1,4 +1,4 @@
-# Hi, I'm Patti 👋
+# Hi, I'm Patricia 👋
 
 Builder of AI-powered tools and web apps. I like turning fuzzy ideas into things people can actually click.
 
@@ -15,7 +15,8 @@ Builder of AI-powered tools and web apps. I like turning fuzzy ideas into things
 - AI apps, product ideas, and building things end-to-end
 
 ### 📫 How to reach me
-- Open an issue or start a discussion on any of my repos
+- 💼 LinkedIn: [in/patricia-kusch](https://www.linkedin.com/in/patricia-kusch/)
+- Or open an issue or start a discussion on any of my repos
 
 ---
 
