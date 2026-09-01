@@ -55,10 +55,8 @@ delivery, agile ways of working, operating-model modernisation across enterprise
 programmes. Regulatory literacy (DORA, EU AI Act, NIST AI RMF, ISO 42001) is why the
 governance and financial-services work above is grounded rather than theoretical.
 
-Based in London.
 
 ### Get in touch
 
-- **LinkedIn** — [in/patricia-kusch](https://www.linkedin.com/in/patricia-kusch/)
 - Or open an issue on any repo above. Bug reports and disagreement both welcome — the
   repos are built to be argued with.
