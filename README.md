@@ -1,4 +1,3 @@
-# Patricia Kusch
 
 **I build agentic systems for regulated environments — and I publish the findings that didn't hold up.**
 
