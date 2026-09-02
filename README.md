@@ -56,6 +56,5 @@ governance and financial-services work above is grounded rather than theoretical
 
 
 ### Get in touch
-- pat.kusch@outlook.com 
-- Or open an issue on any repo above. Bug reports and disagreement both welcome — the
+- Open an issue on any repo above. Bug reports and disagreement both welcome — the
   repos are built to be argued with.
