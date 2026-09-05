@@ -6,7 +6,7 @@ giving them context that can prove it isn't stale, and governing what they're al
 without asking anyone. I come at it from a career delivering change inside banks, which is
 mostly where I learned that the interesting failures are the silent ones.
 
-Everything here is public, MIT, and runs from a clean clone.
+Everything here is public, MIT unless the repo says otherwise, and runs from a clean clone.
 
 ---
 
@@ -15,10 +15,12 @@ Everything here is public, MIT, and runs from a clean clone.
 | | What it is | Why it might interest you |
 |---|---|---|
 | **[apiary](https://github.com/patkusch/apiary)** | Durable multi-agent orchestration | A crashed worker used to lose its task with no lease, no attempt counter and no requeue path. Replaced the prose instruction telling an LLM to clean up afterwards with an actual state machine — leases, bounded retries, a real terminal state. |
+| **[acta](https://github.com/patkusch/acta)** | Tamper-evident record of what an agent did | A log written by the process that took the actions is that process's account of itself. Every tool call goes into a hash-chained ledger signed by a key the agent must not hold, and the verifier states which of ten attacks it catches and which one it never will. |
 | **[cresco](https://github.com/patkusch/cresco)** | Skill-demand radar that grades its own predictions | Writes every verdict down as a dated, falsifiable claim, then publishes its own hit rate — including the calls it got wrong. 22 months of real hiring data, six sources, weighted so chatter can't impersonate demand. |
 | **[kontext](https://github.com/patkusch/kontext)** | Give your markdown a lifecycle | A document is a *claim about code*, and git can check it. Proves staleness from commit history with no LLM in the verdict path, so CI can gate on it. |
 | **[remit](https://github.com/patkusch/remit)** | Agentic skills framework for AI governance | Existing frameworks ask whether a model is fair. None ask how large a single action's blast radius is. Autonomy tiers and a diagnostic manual over EU AI Act, NIST AI RMF, ISO 42001 and DORA. |
 | **[aurora](https://github.com/patkusch/aurora)** | Cross-document requirements conflict engine | Two design documents, both approved, five weeks apart, mutually exclusive. Nobody noticed, because nobody reads every document. Finds it in 30 seconds and cites both lines. |
+| **[hazlog](https://github.com/patkusch/hazlog)** | Cross-document clinical hazard detection for DCB0160 | Two approved designs, both correct, together a hazard nobody logged. A local model reads the whole corpus and cites the contradicting lines; the cloud model only ever sees isolated terms, so patient data stays on site. |
 
 ---
 
