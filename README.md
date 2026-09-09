@@ -15,7 +15,7 @@ Everything here is public, MIT unless the repo says otherwise, and runs from a c
 | | What it is | Why it matters |
 |---|---|---|
 | **[apiary](https://github.com/patkusch/apiary)** | Durable multi-agent orchestration | A crashed worker no longer loses its task: leases, bounded retries and a real terminal state, in code rather than in a prompt. |
-| **[acta](https://github.com/patkusch/acta)** | Tamper-evident record of what an agent did | Every tool call in a hash-chained ledger signed by a key the agent cannot hold, with a table of which of twelve attacks it catches and which it never will. |
+| **[acta](https://github.com/patkusch/acta)** | Tamper-evident record of what an agent did | A record of everything an agent did that the agent cannot quietly rewrite afterwards, with an honest table of which kinds of tampering it catches and which it cannot. |
 | **[cresco](https://github.com/patkusch/cresco)** | Skill-demand radar that grades its own predictions | Every verdict is a dated, falsifiable claim, and it publishes its own hit rate, misses included, over 72 months of real hiring data. |
 | **[kontext](https://github.com/patkusch/kontext)** | Give your markdown a lifecycle | A doc is a claim about code, and git checks it: staleness proved from commit history with no LLM in the verdict, so CI can gate on it. |
 | **[remit](https://github.com/patkusch/remit)** | Agentic skills framework for AI governance | Asks how large one action's blast radius is, not whether the model is fair: autonomy tiers over EU AI Act, NIST AI RMF, ISO 42001 and DORA. |
