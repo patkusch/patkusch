@@ -56,7 +56,3 @@ working out what the business needs, delivering the product, running large progr
 Knowing the rulebooks (DORA, the EU AI Act, NIST's AI risk framework, ISO 42001) is why
 the governance work above is grounded rather than theoretical.
 
-
-### Get in touch
-- Open an issue on any repo above. Bug reports and disagreement both welcome: the repos
-  are built to be argued with.
