@@ -1,5 +1,5 @@
 
-**I build the plumbing that keeps AI agents honest in places like banks, and I publish the results that didn't hold up.**
+**I build the checks that stop AI agents doing what a bank would not allow, and I publish the experiments that failed as readily as the ones that worked.**
 
 Most of what I build sits underneath AI agents: keeping their work safe when they crash,
 checking that the notes they rely on are still true, and setting limits on what they may
