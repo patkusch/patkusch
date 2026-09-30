@@ -48,12 +48,4 @@ This is the part I'd actually point a reviewer at. Anyone can publish the run th
   green; 3,691 of them came with the copy and I did not write them. The badges say so, with
   the file and line counts to back it up.
 
----
-
-### Background
-
-Management consultant. I help banks and other regulated companies change how they work:
-working out what the business needs, delivering the product, running large programmes.
-Knowing the rulebooks (DORA, the EU AI Act, NIST's AI risk framework, ISO 42001) is why
-the governance work above is grounded rather than theoretical.
 
