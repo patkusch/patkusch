@@ -3,8 +3,7 @@
 
 Most of what I build sits underneath AI agents: keeping their work safe when they crash,
 checking that the notes they rely on are still true, and setting limits on what they may
-do without asking a person first. I spent years delivering change inside banks, which is
-where I learned that the failures that hurt are the quiet ones.
+do without asking a person first. 
 
 Everything here is public, free to reuse (MIT unless the repo says otherwise), and runs
 from a fresh download.
@@ -25,27 +24,5 @@ from a fresh download.
 | **[hazlog](https://github.com/patkusch/hazlog)** | The same, for hospital IT safety | Catches contradictions that could harm a patient, and keeps patient data on site: only single words ever leave for the cloud model. |
 
 ---
-
-### Things I got wrong, in public
-
-This is the part I'd actually point a reviewer at. Anyone can publish the run that worked.
-
-- **[A finding that died as the data grew.](https://github.com/patkusch/cresco#a-finding-that-died-as-the-data-grew)**
-  I thought Wikipedia page views predicted hiring six months ahead, and the numbers looked
-  convincing enough to go in the README. Then I fixed a bug that had been cutting off the
-  job-advert history, added more years of data, and watched the effect vanish. The
-  retraction is in the README with the table showing it disappear, because a project about
-  grading its own predictions doesn't get to quietly delete one.
-
-- **[Measuring whether my own instrument works.](https://github.com/patkusch/remit#why-this-exists)**
-  I asked four people, separately and without the answers, to classify eight agent failures
-  using my manual. They agreed with each other far more than chance would allow (κ = 0.83,
-  where 0.61 counts as good). They also found two mistakes in the manual. Both are fixed,
-  and both are written up.
-
-- **[Separating what I wrote from what I inherited.](https://github.com/patkusch/apiary#what-is-inherited-and-what-is-not)**
-  apiary started as a copy of someone else's project. Its test suite is 3,763 tests and
-  green; 3,691 of them came with the copy and I did not write them. The badges say so, with
-  the file and line counts to back it up.
 
 
