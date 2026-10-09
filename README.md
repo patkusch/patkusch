@@ -14,7 +14,7 @@ from a fresh download.
 
 | | What it is | Why it matters |
 |---|---|---|
-| **[apiary](https://github.com/patkusch/apiary)** | Keeps a team of AI agents working when one of them crashes | A worker that died used to take its job with it. Now the job goes to another worker, is retried a limited number of times, and is parked for a person if it keeps failing. |
+| **[apiary](https://github.com/patkusch/apiary)** | Keeps a team of AI agents working when one of them crashes | When a worker stops, its job is handed to another worker. Each job is retried a limited number of times, and if it keeps failing it is held for a person to review. |
 | **[acta](https://github.com/patkusch/acta)** | A record of what an agent did that it cannot rewrite | A logbook the driver can write in but cannot tear pages out of, with an honest list of which tricks it catches and which it cannot. |
 | **[cresco](https://github.com/patkusch/cresco)** | A radar for which tech skills employers will want next | Every prediction is written down with a date and later checked against what actually happened, misses published alongside hits. Six years of real job adverts behind it. |
 | **[kontext](https://github.com/patkusch/kontext)** | Tells you which of your project notes are out of date | Compares each note with the code it describes and when each last changed, so nobody trusts a note that stopped being true. |
