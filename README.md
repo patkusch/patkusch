@@ -25,4 +25,16 @@ from a fresh download.
 
 ---
 
+### Also built
 
+| | What it does |
+|---|---|
+| **[proctor](https://github.com/patkusch/proctor)** | Checks whether an AI agent picks the right tool, passes the right arguments, recovers from errors and stays in scope. |
+| **[skillgate](https://github.com/patkusch/skillgate)** | Checks an agent skill before you install it: what it can touch, what it claims to do, and whether it changed since you approved it. |
+| **[agentsweep](https://github.com/patkusch/agentsweep)** | Shows what your AI agent tools have piled up on your disk and clears it safely. Nothing is deleted, it goes to a folder you can restore from. |
+| **[cursus](https://github.com/patkusch/cursus)** | Turns a written process into a Visio flow chart, with the source sentence behind every box. |
+| **[specto](https://github.com/patkusch/specto)** | Watches a recorded expert walkthrough of a system and writes down what the system must do. |
+| **[carryover](https://github.com/patkusch/carryover)** | Checks that every number, date, amount and name in a text survives translation. |
+| **[dayline](https://github.com/patkusch/dayline)** | Writes up your day from your Claude Code sessions and git commits. Runs on your machine. |
+
+---
