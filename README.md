@@ -36,5 +36,6 @@ from a fresh download.
 | **[specto](https://github.com/patkusch/specto)** | Watches a recorded expert walkthrough of a system and writes down what the system must do. |
 | **[carryover](https://github.com/patkusch/carryover)** | Checks that every number, date, amount and name in a text survives translation. |
 | **[dayline](https://github.com/patkusch/dayline)** | Writes up your day from your Claude Code sessions and git commits. Runs on your machine. |
+| **[versus](https://github.com/patkusch/versus)** | Runs your own tasks on a free AI model on your laptop and on Claude, and shows which jobs the free one can take. On 102 tasks the bigger free model matched Claude on everything except maths. |
 
 ---
