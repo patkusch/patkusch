@@ -1,7 +1,5 @@
 
-I make small tools that check what AI agents do. Some keep an agent's work from being lost when it crashes. Some check that the notes an agent relies on are still true. Some stop an agent doing risky things without asking a person first.
-
-I also publish the experiments that didn't work.
+I build open-source tools that watch what AI agents do and stop them doing things nobody agreed to. Each project below says what it can't catch. Where something I tested didn't work, I say so.
 
 Everything here is public, free to reuse (MIT unless the repo says otherwise), and runs
 from a fresh download.
