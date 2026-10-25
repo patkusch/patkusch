@@ -1,9 +1,7 @@
 
-**I build the checks that stop AI agents doing what a bank would not allow, and I publish the experiments that failed as readily as the ones that worked.**
+I make small tools that check what AI agents do. Some keep an agent's work from being lost when it crashes. Some check that the notes an agent relies on are still true. Some stop an agent doing risky things without asking a person first.
 
-Most of what I build sits underneath AI agents: keeping their work safe when they crash,
-checking that the notes they rely on are still true, and setting limits on what they may
-do without asking a person first. 
+I also publish the experiments that didn't work.
 
 Everything here is public, free to reuse (MIT unless the repo says otherwise), and runs
 from a fresh download.
