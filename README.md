@@ -38,6 +38,6 @@ from a fresh download.
 | **[askwell](https://github.com/patkusch/askwell)** | 33 skills that help an AI agent do a business analyst's work, with checkers that find vague requirements, weak user stories, gaps and processes that lead nowhere. |
 | **[dosewise](https://github.com/patkusch/dosewise)** | Ranks data breakages by who is actually affected, so the few that need a person today stand out from the hundreds that can wait. |
 | **[whittle](https://github.com/patkusch/whittle)** | 3D models written as small programs: change a setting and the shape rebuilds, and every build is checked before you print it. |
-| **[firstgrad](https://github.com/patkusch/firstgrad)** | A tiny neural network library built from scratch, to learn how models learn. It reads handwritten digits correctly 94% of the time. |
+| **[firstgrad](https://github.com/patkusch/firstgrad)** | A tiny neural network library built from scratch, to learn how models learn. It reads small hand-drawn digits it has never seen, with static added, right 94% of the time (guessing would get 10%). |
 
 ---
