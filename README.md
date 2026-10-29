@@ -18,6 +18,7 @@ from a fresh download.
 | **[assay](https://github.com/patkusch/assay)** | Quick yes/no and pick-one answers from a small AI model on your own laptop, with a number for how sure it is | An agent can ask "is this command dangerous?" in a fraction of a second and get an answer whose confidence can be checked. It says "not sure" when it should, and the scoreboard publishes the tests that showed no benefit. |
 | **[aurora](https://github.com/patkusch/aurora)** | Finds where two approved documents contradict each other | Two design documents, both signed off weeks apart, cannot both be true. It finds the clash in seconds and points at the exact lines. |
 | **[hazlog](https://github.com/patkusch/hazlog)** | The same, for hospital IT safety | Catches contradictions that could harm a patient, and keeps patient data on site: only single words ever leave for the cloud model. |
+| **[examen](https://github.com/patkusch/examen)** | A research agent that checks its own work | Every sentence it writes is checked against the page it cites, by a checker that was first tested on claims with known answers. The best checker that runs on a laptop still fails that test narrowly, and the write-up says so. |
 
 ---
 
@@ -33,5 +34,10 @@ from a fresh download.
 | **[carryover](https://github.com/patkusch/carryover)** | Checks that every number, date, amount and name in a text survives translation. |
 | **[dayline](https://github.com/patkusch/dayline)** | Writes up your day from your Claude Code sessions and git commits. Runs on your machine. |
 | **[versus](https://github.com/patkusch/versus)** | Runs your own tasks on a free AI model on your laptop and on Claude, and shows which jobs the free one can take. On 102 tasks the bigger free model matched Claude on labelling, formatting and following rules, and slipped mostly on maths. |
+| **[fewer](https://github.com/patkusch/fewer)** | Reads your own Claude Code history and tells you how many agents you really run at once, how often you jump between them, and how many would do the same work with less jumping. Nothing leaves your machine. |
+| **[askwell](https://github.com/patkusch/askwell)** | 33 skills that help an AI agent do a business analyst's work, with checkers that find vague requirements, weak user stories, gaps and processes that lead nowhere. |
+| **[dosewise](https://github.com/patkusch/dosewise)** | Ranks data breakages by who is actually affected, so the few that need a person today stand out from the hundreds that can wait. |
+| **[whittle](https://github.com/patkusch/whittle)** | 3D models written as small programs: change a setting and the shape rebuilds, and every build is checked before you print it. |
+| **[firstgrad](https://github.com/patkusch/firstgrad)** | A tiny neural network library built from scratch, to learn how models learn. It reads handwritten digits correctly 94% of the time. |
 
 ---
