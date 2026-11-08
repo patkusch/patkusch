@@ -27,6 +27,9 @@ from a fresh download.
 | | What it does |
 |---|---|
 | **[proctor](https://github.com/patkusch/proctor)** | Checks whether an AI agent picks the right tool, passes the right arguments, recovers from errors and stays in scope. |
+| **[askwell](https://github.com/patkusch/askwell)** | Business-analyst skills for AI agents, each backed by a small check that runs and is tested: vague requirements, risks with no owner, findings nobody double-checked. |
+| **[markcheck](https://github.com/patkusch/markcheck)** | Checks AI labels and estimates whether a text was machine-written, offline. Says which of its own refits it rejected. |
+| **[examen](https://github.com/patkusch/examen)** | A research agent that checks its own claims against the sources before it reports them. |
 | **[skillgate](https://github.com/patkusch/skillgate)** | Checks an agent skill before you install it: what it can touch, what it claims to do, and whether it changed since you approved it. |
 | **[agentsweep](https://github.com/patkusch/agentsweep)** | Shows what your AI agent tools have piled up on your disk and clears it safely. Nothing is deleted, it goes to a folder you can restore from. |
 | **[cursus](https://github.com/patkusch/cursus)** | Turns a written process into a Visio flow chart, with the source sentence behind every box. |
