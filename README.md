@@ -37,6 +37,7 @@ from a fresh download.
 | **[specto](https://github.com/patkusch/specto)** | Watches a recorded expert walkthrough of a system and writes down what the system must do. |
 | **[carryover](https://github.com/patkusch/carryover)** | Checks that every number, date, amount and name in a text survives translation. |
 | **[dayline](https://github.com/patkusch/dayline)** | Writes up your day from your Claude Code sessions and git commits. Runs on your machine. |
+| **[fewer](https://github.com/patkusch/fewer)** | Answers "am I running too many agents at once?" from your own Claude Code sessions: how many you ran together, how often you switched between them, and how many would suit you. |
 | **[versus](https://github.com/patkusch/versus)** | Runs your own tasks on a free AI model on your laptop and on Claude, and shows which jobs the free one can take. On 102 tasks the bigger free model matched Claude on labelling, formatting and following rules, and slipped mostly on maths. |
 | **[fewer](https://github.com/patkusch/fewer)** | Reads your own Claude Code history and tells you how many agents you really run at once, how often you jump between them, and how many would do the same work with less jumping. Nothing leaves your machine. |
 | **[askwell](https://github.com/patkusch/askwell)** | 33 skills that help an AI agent do a business analyst's work, with checkers that find vague requirements, weak user stories, gaps and processes that lead nowhere. |
