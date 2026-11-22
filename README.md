@@ -31,6 +31,7 @@ from a fresh download.
 | **[markcheck](https://github.com/patkusch/markcheck)** | Checks AI labels and estimates whether a text was machine-written, offline. Says which of its own refits it rejected. |
 | **[leash](https://github.com/patkusch/leash)** | Lists what your coding agents may do without asking, grades each standing permission, and finds passwords that were saved into the "don't ask again" list. Says which secret shapes it cannot spot. |
 | **[patet](https://github.com/patkusch/patet)** | Looks at your Supabase-backed app the way a stranger would and tells you which tables anyone can read, without reading a single row. |
+| **[mandata](https://github.com/patkusch/mandata)** | Checks that what your `CLAUDE.md` and `AGENTS.md` files say is still true: the commands, file paths and versions they mention. Says which lines are wrong now and which are probably stale. |
 | **[skillgate](https://github.com/patkusch/skillgate)** | Checks an agent skill before you install it: what it can touch, what it claims to do, and whether it changed since you approved it. |
 | **[agentsweep](https://github.com/patkusch/agentsweep)** | Shows what your AI agent tools have piled up on your disk and clears it safely. Nothing is deleted, it goes to a folder you can restore from. |
 | **[cursus](https://github.com/patkusch/cursus)** | Turns a written process into a Visio flow chart, with the source sentence behind every box. |
